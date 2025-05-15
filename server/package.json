@@ -1,0 +1,23 @@
+{
+  "name": "realtime-map-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dymgym/realtime-map-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dymgym/realtime-map-app/issues"
+  },
+  "homepage": "https://github.com/dymgym/realtime-map-app#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
